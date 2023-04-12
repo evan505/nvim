@@ -50,6 +50,11 @@ db.setup({
     "",
     "",
     "",
+    "",
+    "",
+    "",
+    "",
+    "",
     "Seize the day, capture the moment.",
     }
   }
