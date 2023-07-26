@@ -1,8 +1,4 @@
-# nvim
+# 💤 LazyVim
 
-local path : 
-~/.config/nvim/init.lua 
-
-
-plugin intall path : 
-~/.local/share/nvim/site/pack/packer/start
+A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
+Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
